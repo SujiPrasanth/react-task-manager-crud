@@ -70,7 +70,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-👉 (Add your deployed link here)
+https://react-task-manager-crud.vercel.app/
 
 ---
 
