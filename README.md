@@ -75,8 +75,10 @@ npm run dev
 ---
 
 ## 📸 Screenshots
-
-👉 (Add screenshots of your app here)
+![App Screenshot](Output/output1.png)
+![App Screenshot](Output/output2.png)
+![App Screenshot](Output/output3.png)
+![App Screenshot](Output/output4.png)
 
 ---
 
