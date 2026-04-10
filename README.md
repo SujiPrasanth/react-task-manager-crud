@@ -19,7 +19,7 @@ A fully functional **Todo Application** built using React that supports complete
 ## 🛠️ Tech Stack
 
 * **Frontend:** React (Vite)
-* **Styling:** CSS / Tailwind (if used)
+* **Styling:** Tailwind 
 * **State Management:** React Hooks
 
 ---
