@@ -75,10 +75,10 @@ npm run dev
 ---
 
 ## 📸 Screenshots
-![App Screenshot](Output/output1.png)
-![App Screenshot](Output/output2.png)
-![App Screenshot](Output/output3.png)
-![App Screenshot](Output/output4.png)
+![App Screenshot](Output/Output1.png)
+![App Screenshot](Output/Output2.png)
+![App Screenshot](Output/Output3.png)
+![App Screenshot](Output/Output4.png)
 
 ---
 
