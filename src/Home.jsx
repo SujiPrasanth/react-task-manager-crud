@@ -61,7 +61,7 @@ function Home() {
     return (
         <>
             <div className="container mx-auto px-4 py-8">
-                <div className="flex flex-col lg:flex-row items-center gap-8 px-32">
+                <div className="flex flex-col lg:flex-row items-center gap-8 md:px-32 px-16">
 
 
                     <div className="py-10 lg:py-32">
